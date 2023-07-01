@@ -7,7 +7,7 @@ function ServiceProviderBlock() {
   return (
     <div className="service-provider-block">
       <div className="left-half">
-        <img src="online_pay.png" alt="Online Transaction" className="transaction-image" />
+        <img src="undraw_artificial_intelligence_re_enpp 2.png" alt="Online Transaction" className="transaction-image" />
         <h1>Our Service Provider</h1>
       </div>
       <div className="right-half">
